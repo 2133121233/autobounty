@@ -1,0 +1,11 @@
+_G.Team = "Pirates" --// Pirates or Marines 
+_G.FruitList = { ---auto skip user use this fruit 
+"Leopard-Leopard",
+"Venom-Venom", 
+"Dough-Dough",
+"Portal-Portal" 
+} 
+_G.ChatList = {
+"" 
+} 
+loadstring(game:HttpGet("https://isnahamzahpastebin.tech/Bounty/gantenghub"))()
